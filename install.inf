@@ -1,0 +1,11 @@
+[info]
+title=Cut Lines
+desc=Cut selected lines
+type=cudatext-plugin
+subdir=cuda_cut_line
+homepage=https://google.com
+
+[item1]
+section=commands
+caption=Cut Lines\Cut Selected Lines
+method=cut_selected_lines
