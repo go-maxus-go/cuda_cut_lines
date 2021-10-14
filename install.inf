@@ -3,7 +3,7 @@ title=Cut Lines
 desc=Cut selected lines
 type=cudatext-plugin
 subdir=cuda_cut_lines
-homepage=https://google.com
+homepage=https://github.com/go-maxus-go/cuda_cut_lines
 
 [item1]
 section=commands
