@@ -2,7 +2,7 @@
 title=Cut Lines
 desc=Cut selected lines
 type=cudatext-plugin
-subdir=cuda_cut_line
+subdir=cuda_cut_lines
 homepage=https://google.com
 
 [item1]
